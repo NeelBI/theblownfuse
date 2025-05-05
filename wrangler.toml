@@ -7,4 +7,4 @@ workers_dev = true
 route = ""
 zone_id = ""
 [observability.logs]
-enabled = false
+enabled = true
