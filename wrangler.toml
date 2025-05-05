@@ -2,9 +2,6 @@ name = "theblownfuse"
 type = "javascript"
 main="index.js"
 compatibility_date="2023-05-05"
-[
-site
-]
 account_id = ""
 workers_dev = true
 route = ""
